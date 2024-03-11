@@ -42,6 +42,8 @@ export const styles = StyleSheet.create({
     justifyContent: 'center',
     marginBottom: 18,
     paddingHorizontal: 10,
+    // flexWrap: 'wrap',
+    // rowGap: 15,
   },
 
   button: {
